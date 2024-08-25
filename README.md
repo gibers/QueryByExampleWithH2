@@ -4,7 +4,7 @@ With these informations, we can see the tables and request them:
 
 ![img.png](img.png)
 
-Vous pouvez trouver la classe PersonRepository [ici](src/main/java/com/votreprojet/path/PersonRepository.java).
+Vous pouvez trouver la classe PersonRepository [ici](src/main/java/com/example/demo/repo/PersonRepository.java).
 
     public interface PersonRepository extends CrudRepository<Person, Long>, QueryByExampleExecutor<Person>
 
