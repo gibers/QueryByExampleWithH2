@@ -1,4 +1,6 @@
 
+Officiel documentation is available [here](https://docs.spring.io/spring-data/relational/reference/query-by-example.html).
+
 When the application is started, we can connect to the h2 DB at this url: http://localhost:8080/h2-console <br>
 With these informations, we can see the tables and request them:
 
